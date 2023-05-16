@@ -1,1 +1,487 @@
 # IlabsTrasport
+<!-- for home file -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Ilabs Transport</title>
+
+<style>
+  *{
+
+    background-color: rgb(33, 208, 217);
+  }
+    p{
+
+        color: rgb(31, 15, 15);
+    }
+
+    h1{
+
+        color: rgb(35, 21, 48);
+    }
+   
+    #homeh1{
+
+        color: rgb(92, 163, 22);
+        text-align: center;
+    }
+    #navb{
+        text-align: center;
+        text-decoration: none;
+        background-color: rgb(41, 16, 64);
+        margin: 30px;
+        padding: 20px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    a{
+        text-decoration: none;
+        text-align: center;
+        justify-content: space-around;
+        margin: 100px;
+        color: rgb(229, 236, 232);
+         background-color: rgb(41, 16, 64);
+        
+    }
+
+    #h1{
+        text-align: center;
+        color: brown;
+    }
+
+    p{
+        color: rgb(68, 62, 58);
+        padding-left: 300px;
+        padding-right: 300px;
+        
+    }
+
+    ol{
+        color:crimson ;
+        text-align: center;
+        background-color: rgb(41, 16, 64);
+        margin-left: 200px;
+        margin-right: 200px;
+        
+    }
+   
+
+ 
+</style>
+
+</head>
+<body>
+
+<form action="/ilaps" method="post">
+
+<h1 id="homeh1"> Ilabs Transport </h1>
+
+<nav id="navb">
+<a href="./home.html">Home</a>
+      <a href="./about.htm">About</a>
+      <a href="./services.html">Services</a>
+      <a href="./contact.html">Contact</a>
+
+</nav>
+
+<h1 id="h1"> Welcome to Ilabs Transport  </h1>
+
+<div id="home">
+
+<h1 id="h1"> Welcome to Ilabs transport Home-Page</h1>
+
+<ul>
+<p> Ilabs Transport is the one of the best transport system where we have many ways to transport
+
+    we make customer to feel free with us to contact and we have 24/7 coustmerServices 
+     And we have the a long distance transport system and we can store any type of items and we 
+     can transport to where the coustomer want and we can deliver the items and without damage to the location 
+     customers feels free to contact us and we are the respossible to your items </p>
+    
+<p> We will transport an vehicles to the other Cities and having the different services to transport </p>
+
+<p> These are the ways inculdes in our Ilabs Transport </p>
+
+<p> We will provide various services</p>
+
+<p> We can transport throught the Vehicles</p>
+
+<p> Having the capability for transporting to the various cities</p>
+
+<p> And flash ads</p>
+
+
+<p>  Ilabs Transport which inclues </p>
+
+<ol>
+   <a href="./home.html">Home</a>
+      <a href="./about.htm">About</a>
+      <a href="./services.html">Services</a>
+      <a href="./contact.html">Contact</a>
+
+</ol>
+</ul>
+</div>
+  </form>
+
+</body>
+</html>
+
+<!-- for about file -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Ilabs Transport</title>
+<style>
+    *{
+  
+      background-color: rgb(33, 208, 217);
+    }
+      p{
+  
+          color: rgb(31, 15, 15);
+      }
+  
+      h1{
+  
+          color: rgb(35, 21, 48);
+      }
+     
+      #homeh1{
+  
+          color: rgb(92, 163, 22);
+          text-align: center;
+      }
+      #navb{
+          text-align: center;
+          text-decoration: none;
+          background-color: rgb(41, 16, 64);
+          margin: 30px;
+          padding: 20px;
+          margin-left: 200px;
+          margin-right: 200px;
+      }
+      a{
+          text-decoration: none;
+          text-align: center;
+          justify-content: space-around;
+          margin: 100px;
+          color: rgb(231, 237, 234);
+           background-color: rgb(41, 16, 64);
+          
+          
+      }
+  
+      #h1{
+          text-align: center;
+          color: brown;
+      }
+  
+      p{
+          color: rgb(68, 62, 58);
+          padding-left: 300px;
+          padding-right: 300px;
+      }
+  
+      ol{
+          color:crimson ;
+          text-align: center;
+          background-color: rgb(41, 16, 64);
+          margin-left: 200px;
+          margin-right: 200px;
+          
+          
+      }
+      
+  
+   
+  </style>
+  
+</head>
+<body>
+    <form action="/ilaps" method="post">
+
+        <h1 id="homeh1"> Ilabs Transport </h1>
+        
+        <nav id="navb">
+        <a href="./home.html">Home</a>
+              <a href="./about.htm">About</a>
+              <a href="./services.html">Services</a>
+              <a href="./contact.html">Contact</a>
+        
+        </nav>
+        <div id="about">
+
+            <h1 id="h1">Welcome to Ilabs Transport About-Page </h1>
+            
+            <ul>
+            <p> Ilabs Transport is the one of the best transport system where we have many ways to transport
+            
+                we make customer to feel free with us to contact and we have 24/7 coustmerServices 
+                 And we have the a long distance transport system and we can store any type of items and we 
+                 can transport to where the coustomer want and we can deliver the items and without damage to the location 
+                 customers feels free to contact us and we are the respossible to your items </p>
+            <p> We will transport an vehicles to the other Cities and having the different services to transport </p>
+            <p> These are the ways inculdes in our Ilabs Transport </p>
+            <p> We will provide various services</p>
+            <p> We can transport throught the Vehicles</p>
+            <p> Having the capability for transporting to the various cities</p>
+            <p> And flash ads</p>
+            <p> About the Ilaps Transport are following </p>
+            <ol>
+               <a href="home.html">Home</a>
+                  <a href="about.htm">About</a>
+                  <a href="services.html">Services</a>
+                  <a href="contact.html">Contact</a>
+            
+            </ol>
+            </ul>
+            </div>
+            </form>
+</body>
+</html>
+
+<!-- for service file -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Ilabs Transport</title>
+<style>
+    *{
+  
+      background-color: rgb(33, 208, 217);
+    }
+      p{
+  
+          color: rgb(31, 15, 15);
+      }
+  
+      h1{
+  
+          color: rgb(35, 21, 48);
+      }
+     
+      #homeh1{
+  
+          color: rgb(92, 163, 22);
+          text-align: center;
+      }
+      #navb{
+          text-align: center;
+          text-decoration: none;
+          background-color: rgb(41, 16, 64);
+          margin: 30px;
+          padding: 20px;
+          margin-left: 200px;
+          margin-right: 200px;
+      }
+      a{
+          text-decoration: none;
+          text-align: center;
+          justify-content: space-around;
+          margin: 100px;
+          color: rgb(228, 239, 233);
+           background-color: rgb(41, 16, 64);
+          
+      }
+  
+      #h1{
+          text-align: center;
+          color: brown;
+      }
+  
+      p{
+          color: rgb(68, 62, 58);
+          padding-left: 300px;
+          padding-right: 300px;
+      }
+  
+      ol{
+          color:crimson ;
+          text-align: center;
+          background-color: rgb(41, 16, 64);
+          margin-left: 200px;
+          margin-right: 200px;
+          
+      }
+  
+   
+  </style>
+  
+</head>
+<body>
+    <form action="/ilaps" method="post">
+
+        <h1 id="homeh1"> Ilabs Transport </h1>
+        
+        <nav id="navb">
+        <a href="./home.html">Home</a>
+              <a href="./about.htm">About</a>
+              <a href="./services.html">Services</a>
+              <a href="./contact.html">Contact</a>
+        
+        </nav>
+    <div id="services">
+        <h1 id="h1"> Welcome to the ilaps Transport services </h1>
+        <ul>
+        <p> Ilabs Transport is the one of the best transport system where we have many ways to transport
+        
+            we make customer to feel free with us to contact and we have 24/7 coustmerServices 
+             And we have the a long distance transport system and we can store any type of items and we 
+             can transport to where the coustomer want and we can deliver the items and without damage to the location 
+             customers feels free to contact us and we are the respossible to your items </p>
+        <p> We will transport an vehicles to the other Cities and having the different services to transport </p>
+        
+        <p> These are the ways inculdes in our Ilabs Transport </p>
+        
+        <p> We will provide various services</p>
+        
+        <p> We can transport throught the Vehicles</p>
+        
+        <p> Having the capability for transporting to the various cities</p>
+        
+        <p> And flash ads</p>
+        <p> Ilabs Transport Services are follows </p>
+        
+        <ol>
+           <a href="home.html">Home</a>
+              <a href="about.htm">About</a>
+              <a href="services.html">Services</a>
+              <a href="contact.html">Contact</a>
+        
+        </ol>
+        </ul>
+        </div>
+    </form>
+</body>
+</html>
+
+<!-- for contact file -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Ilabs Transport</title>
+<style>
+    *{
+  
+      background-color: rgb(33, 208, 217);
+    }
+      p{
+  
+          color: rgb(31, 15, 15);
+      }
+  
+      h1{
+  
+          color: rgb(35, 21, 48);
+      }
+     
+      #homeh1{
+  
+          color: rgb(92, 163, 22);
+          text-align: center;
+      }
+      #navb{
+          text-align: center;
+          text-decoration: none;
+          background-color: rgb(41, 16, 64);
+          margin: 30px;
+          padding: 20px;
+          margin-left: 200px;
+          margin-right: 200px;
+      }
+      a{
+          text-decoration: none;
+          text-align: center;
+          justify-content: space-around;
+          margin: 100px;
+          color: rgb(214, 223, 217);
+           background-color: rgb(41, 16, 64);
+          
+      }
+  
+      #h1{
+          text-align: center;
+          color: brown;
+      }
+  
+      p{
+          color: rgb(68, 62, 58);
+          padding-left: 300px;
+          padding-right: 300px;
+      }
+  
+      ol{
+          color:crimson ;
+          text-align: center;
+          background-color: rgb(41, 16, 64);
+          margin-left: 200px;
+          margin-right: 200px;
+          
+      }
+  
+   
+  </style>
+</head>
+<body>
+    <form action="/ilaps" method="post">
+
+        <h1 id="homeh1"> Ilabs Transport </h1>
+        
+        <nav id="navb">
+        <a href="./home.html">Home</a>
+              <a href="./about.htm">About</a>
+              <a href="./services.html">Services</a>
+              <a href="./contact.html">Contact</a>
+        
+        </nav>
+    <div id="contact">
+
+        <h1 id="h1"> Welcome to ilaps transport Contect-Page</h1>
+        <ul>
+        <p> Ilabs Transport is the one of the best transport system where we have many ways to transport
+        
+            we make customer to feel free with us to contact and we have 24/7 coustmerServices 
+             And we have the a long distance transport system and we can store any type of items and we 
+             can transport to where the coustomer want and we can deliver the items and without damage to the location 
+             customers feels free to contact us and we are the respossible to your items </p>
+             
+        <p> We will transport an vehicles to the other Cities and having the different services to transport </p>
+        
+        <p> These are the ways inculdes in our Ilabs Transport </p>
+        
+        <p> We will provide various services</p>
+        
+        <p> We can transport throught the Vehicles</p>
+        
+        <p> Having the capability for transporting to the various cities</p>
+        
+        <p> And flash ads</p>
+        
+        
+        <p> Ilabs Transport inclues </p>
+        
+        <ol>
+           <a href="home.html">Home</a>
+              <a href="about.htm">About</a>
+              <a href="services.html">Services</a>
+              <a href="contact.html">Contact</a>
+        
+        </ol>
+        </ul>
+        </div>
+        
+        
+        
+        
+        </form>
+</body>
+</html>
